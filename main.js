@@ -70,11 +70,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 UI_DefaultSynchtube = 1;	// default old Synchtube layout (player and playlist on the left)
 UI_Favicon = 1;			// [&] channel favicon
-UI_MiniLogo = 1;		// [&] small channel logo/avatar in the top navbar
+UI_MiniLogo = 0;		// [&] small channel logo/avatar in the top navbar
 UI_ChannelName = 1;		// [&] channel custom brand name
 UI_HeaderDropMenu = 1;		// [&] additional header dropdown menu
 UI_RemoveLayoutMenu = 1;	// removing 'Layout' menu from the header
-UI_MOTDAutoLogo = 0;		// [&] big channel logo inserted into MOTD
+UI_MOTDAutoLogo = 1;		// [&] big channel logo inserted into MOTD
 UI_MOTDTabs = 1;		// [&] switchable MOTD tabs application for homepage-like channel header
 UI_MOTDDelete = 1;		// deleting previous MOTD after accepting/loading script
 UI_RulesBtn = 1;		// [&] button displaying channel rules
@@ -145,7 +145,7 @@ UI_ChannelCache = 1;		// caching script emotes, additional media database and de
 
 Favicon_URL = 'https://dmnd.sh/public/cyplus/favicon.ico';
 
-MiniLogo_URL = 'https://dmnd.sh/public/cyplus/android-chrome-192x192.png';
+MiniLogo_URL = 'https://dmnd.sh/public/cyplus/favicon-16x16.png';
 
 ChannelName_Caption = 'DIAMONDS';
 
@@ -161,7 +161,7 @@ AttentionBar_URL = '';
 
 ChannelAnnouncement_Title = 'Important Message by EMOJIGOD';
 
-TitleIcon_URL = 'https://dmnd.sh/public/cyplus/android-chrome-192x192.png';
+TitleIcon_URL = 'https://dmnd.sh/public/cyplus/favicon-16x16.png';
 
 TitleBarDescription_Caption = 'Now Playing:';
 
