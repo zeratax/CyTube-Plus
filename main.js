@@ -147,7 +147,7 @@ Favicon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
 
 MiniLogo_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
 
-ChannelName_Caption = 'CyTube Plus';
+ChannelName_Caption = 'DIAMONDS';
 
 HeaderDropMenu_Title = 'Synch';
 
@@ -155,11 +155,11 @@ MOTDAutoLogo_Mode = 1;
 
 MOTDAutoLogo_Interval = 20;
 
-RulesBtn_Caption = 'Read Channel Rules';
+RulesBtn_Caption = 'Read Channel Rulezzzz';
 
 AttentionBar_URL = '';
 
-ChannelAnnouncement_Title = 'Administration Message';
+ChannelAnnouncement_Title = 'Important Message by EMOJIGOD';
 
 TitleIcon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
 
@@ -186,13 +186,11 @@ ExternalScript_URL = '';
 	/* -- arrays -- */
 
 HeaderDropMenu_Array = [
-['CyTube Servers', ''],
+['Machinegun Channels', '/'],
 ['Calzoneman CyTube', 'http://cytu.be/'],
-['6irc Synchtube', 'http://synchtube.6irc.net/'],
-['CyTube Stuff', ''],
+['Danger Zone', 'https://www.yourworldoftext.com/~danger_zone/'],
 ['Source code', 'https://github.com/calzoneman/sync'],
 ['FAQ', 'https://github.com/calzoneman/sync/wiki/Beginner%27s-Guide-and-FAQ'],
-['IRC', 'http://webchat.6irc.net/?channels=chat,synchtube'],
 ['CyTube Plus', 'https://github.com/zimny-lech/CyTube-Plus'],
 ];
 
@@ -204,17 +202,11 @@ MOTDTabs_Array = [
 ['Home',	'Welcome to our channel!'],
 ['Playlist',	'Playlist tab.<br /><br />We watched this, that and this.'],
 ['Schedule',	'Schedule:<br /><br /><ul><li>Monday: ...</li><li>Tuesday: ...</li><li>Wendesday: ...</li><li>Thursday: ...</li><li>Friday: ...</li><li>Saturday: ...</li><li>Sunday: ...</li></ul>'],
-['Contact',	'Contact:<br /><br />Email - ...<br />Skype - ...'],
+['Contact',	'Contact:<br /><br />Discord - mojibake#9666'],
 ];
 
 RandomQuotes_Array = [
-'I like the Pope dancing', 'No quotes today', 'O rly?', 
-'People have the right to be stupid. You abuse that privilege', 'Don\'t play stupid with me', 
-'Roses are red violets are blue, God made me pretty, what happened to you?', 
-'Please don\'t interrupt me while I\'m ignoring you', 
-'Are you always this stupid, or are you making a special effort today?', 
-'I like you. You remind me of when I was young and stupid.', 'Go and buy me a beer', 
-'The door of this channel is always open for you... so feel free to leave!', 
+'A weak diamond is no diamond at all', 
 ];
 
 AskAnswers_Array = [
