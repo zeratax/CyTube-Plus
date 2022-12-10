@@ -74,7 +74,7 @@ UI_MiniLogo = 1;		// [&] small channel logo/avatar in the top navbar
 UI_ChannelName = 1;		// [&] channel custom brand name
 UI_HeaderDropMenu = 1;		// [&] additional header dropdown menu
 UI_RemoveLayoutMenu = 1;	// removing 'Layout' menu from the header
-UI_MOTDAutoLogo = 1;		// [&] big channel logo inserted into MOTD
+UI_MOTDAutoLogo = 0;		// [&] big channel logo inserted into MOTD
 UI_MOTDTabs = 1;		// [&] switchable MOTD tabs application for homepage-like channel header
 UI_MOTDDelete = 1;		// deleting previous MOTD after accepting/loading script
 UI_RulesBtn = 1;		// [&] button displaying channel rules
@@ -83,7 +83,7 @@ UI_ChannelAnnouncement = 1;	// [&] additional custom channel announcement
 UI_FullTitleBar = 1;		// full-width video title bar
 UI_ProgressBar = 1;		// YouTube/Dailymotion progress bar
 				// [ REQUIRE: UI_FullTitleBar enabled ]
-UI_TitleIcon = 1;		// [&] full-width title bar icon
+UI_TitleIcon = 0;		// [&] full-width title bar icon
 				// [ REQUIRE: UI_FullTitleBar enabled ]
 UI_TitleBarDescription = 1;	// [&] custom title bar description (default "Currently Playing:")
 UI_JoinText = 1;		// [&] chat message after user joining
@@ -143,9 +143,9 @@ UI_ChannelCache = 1;		// caching script emotes, additional media database and de
 
 	/* -- single variables -- */
 
-Favicon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+Favicon_URL = 'https://dmnd.sh/public/cyplus/favicon.ico';
 
-MiniLogo_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+MiniLogo_URL = 'https://dmnd.sh/public/cyplus/android-chrome-192x192.png';
 
 ChannelName_Caption = 'DIAMONDS';
 
@@ -161,7 +161,7 @@ AttentionBar_URL = '';
 
 ChannelAnnouncement_Title = 'Important Message by EMOJIGOD';
 
-TitleIcon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+TitleIcon_URL = 'https://dmnd.sh/public/cyplus/android-chrome-192x192.png';
 
 TitleBarDescription_Caption = 'Now Playing:';
 
@@ -260,7 +260,7 @@ MOTDTabs_CSS = {
 
 RulesBtn_HTML = '<ol><li>You want to write on the chat? Enter temporary nickname into <b>Guest Login</b> input and click enter.</li><li>You want to register a nick? Click <b>Account -> Profile</b> on the top of the channel, and fill the registration form. You don\'t need an email to register.</li><li>Do not spam.</li><li>You want to have this application on your own channel? Go to <a href="https://github.com/zimny-lech/CyTube-Plus">https://github.com/zimny-lech/CyTube-Plus</a>.</li></ol>';
 
-ChannelAnnouncement_HTML = 'This channel has been created with <a href="https://github.com/zimny-lech/CyTube-Plus" target="_blank">CyTube Plus 4.5</a>.';
+ChannelAnnouncement_HTML = 'TIME TO WATCH ANIMEZZZ';
 
 EmbeddingMedia_Images = 'a[href$=".jpg"], a[href$=".jpg:large"], a[href$=".jpeg"], a[href$=".JPG"], a[href$=".png"], a[href$=".tiff"], a[href$=".gif"]';
 
